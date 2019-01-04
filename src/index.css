@@ -1,0 +1,9 @@
+
+/* Base Styles */
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 15px;
+}
