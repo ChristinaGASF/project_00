@@ -5,7 +5,6 @@ const Heart = () => {
 
     <section id="heart" ><h2>HEART <i class="fas fa-heartbeat"></i></h2>
 
-            wanna know more the SOFT stuff goes here
 
             <p>I would regard myself <i class="material-icons">gesture
                 </i> as hardworking, <i class="material-icons">toys</i> playful, and <i class="far fa-comments"></i> communicative.</p>

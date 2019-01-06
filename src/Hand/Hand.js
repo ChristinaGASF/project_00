@@ -5,7 +5,7 @@ const Hand = () => {
 
         <section id="hand"><h2>HAND <i class="far fa-hand-paper"></i></h2>
         
-        <p>an INTRODUCTION hand shaking hello world. Nice to meet you.</p>
+        
                     
         <p class="mySlides"><i class="far fa-paper-plane"></i>  Hello World<i class="material-icons">new_releases</i> 
         I am Christina. <i class="material-icons">person_outline</i><i class="fas fa-mouse-pointer"></i></p>

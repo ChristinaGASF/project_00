@@ -10,7 +10,7 @@ const Nav = () => {
                 <a href="#eye">EYE</a>
                 <a href="#brain">BRAIN</a>
                 <a href="#heart">HEART</a>
-
+                <a href="#mouth">MOUTH</a>
                 <a href="#foot">FOOT</a>
        
   

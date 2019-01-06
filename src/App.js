@@ -6,7 +6,7 @@ import Hand from './Hand/Hand';
 import Eye from './Eye/Eye';
 import Brain from './Brain/Brain';
 import Heart from './Heart/Heart';
-//import Mouth from './Mouth/Mouth';
+import Mouth from './Mouth/Mouth';
 import Footer from './Footer/Footer'
 
 
@@ -21,7 +21,7 @@ class App extends Component {
           <Eye />
           <Brain />
           <Heart />
-       
+          <Mouth />
           <Footer />
 
       </div>

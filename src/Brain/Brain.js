@@ -4,7 +4,7 @@ const Brain = () => {
     return (
 
         <section id="brain"><h2>BRAIN <i class="fas fa-brain"></i></h2>
-        my Education and intellectual experiences 
+        
                 <p><i class="fas fa-graduation-cap"></i> Bachelor of <i class="material-icons">brush</i> <i class="material-icons">vignette</i> Fine Arts in PHOTO <i class="fas fa-camera-retro"></i> communication. Studied Art, <i class="material-icons">
                                     category</i> Design fundamentals, and of <i class="material-icons">
                                                 visibility</i> <i class="material-icons">record_voice_over</i> visual communication. </p>
